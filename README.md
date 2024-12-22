@@ -26,4 +26,4 @@ https://www.youtube.com/@로프1
 위 기능은 "ParadiseDevTeam"의 꼬리잡기 기능을 참고하였음을 알립니다.
 Ref : https://github.com/ParadiseDevTeam/chasing-tails/tree/master
 
-필요 플러그인 : (필수) Skript, SkBee, SkQuery / (선택) Chunky, PlasmoVoice
+필요 플러그인 : (필수) Skript, SkBee, SkQuery / (선택) Chunky, PlasmoVoice 또는 Simple Voice Chat
