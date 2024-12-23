@@ -27,4 +27,9 @@
 
 Ref : [꼬리잡기 플러그인](https://github.com/ParadiseDevTeam/chasing-tails/tree/master)
 
-필요 플러그인 : (필수) Skript, SkBee, SkQuery / (선택) Chunky, PlasmoVoice 또는 Simple Voice Chat
+필요 플러그인
+
+[Skript](https://github.com/SkriptLang/Skript/releases) 
+[SkBee](https://github.com/ShaneBeee/SkBee/releases)
+[Chunky]([https://www.spigotmc.org/resources/chunky.81534/](https://modrinth.com/plugin/chunky/versions))
+[PlasmoVoice](https://modrinth.com/plugin/plasmo-voice/versions) 또는 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/versions)
