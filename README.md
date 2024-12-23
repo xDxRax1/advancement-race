@@ -30,6 +30,9 @@ Ref : [꼬리잡기 플러그인](https://github.com/ParadiseDevTeam/chasing-tai
 필요 플러그인
 
 [Skript](https://github.com/SkriptLang/Skript/releases) 
+
 [SkBee](https://github.com/ShaneBeee/SkBee/releases)
-[Chunky]([https://www.spigotmc.org/resources/chunky.81534/](https://modrinth.com/plugin/chunky/versions))
+
+[Chunky](https://modrinth.com/plugin/chunky/versions)
+
 [PlasmoVoice](https://modrinth.com/plugin/plasmo-voice/versions) 또는 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/versions)
