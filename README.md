@@ -4,7 +4,7 @@
 
 
 본 게임은 유튜브 로프로부터 아이디어를 제공받아 제작되었습니다. 로프님의 게시 중단 요청시 언제든지 게시물이 내려갈 수 있음을 알립니다.
-https://www.youtube.com/@로프1
+[로프 유튜브](https://www.youtube.com/@로프1)
 
 
 
@@ -24,6 +24,7 @@ https://www.youtube.com/@로프1
 
 
 위 기능은 "ParadiseDevTeam"의 꼬리잡기 기능을 참고하였음을 알립니다.
-Ref : https://github.com/ParadiseDevTeam/chasing-tails/tree/master
+
+Ref : [꼬리잡기 플러그인](https://github.com/ParadiseDevTeam/chasing-tails/tree/master)
 
 필요 플러그인 : (필수) Skript, SkBee, SkQuery / (선택) Chunky, PlasmoVoice 또는 Simple Voice Chat
