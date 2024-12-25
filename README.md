@@ -26,7 +26,7 @@
 
 Ref : [꼬리잡기 플러그인](https://github.com/ParadiseDevTeam/chasing-tails/tree/master)
 
-# ⚒️ [ 필요 플러그인 ]
+## ⚒️ [ 필요 플러그인 ]
 
 [Skript](https://github.com/SkriptLang/Skript/releases) 
 
