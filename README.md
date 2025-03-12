@@ -24,7 +24,7 @@
 
 위 기능은 "ParadiseDevTeam"의 꼬리잡기 기능을 참고하였음을 알립니다.
 
-Ref : [꼬리잡기 플러그인]([https://github.com/ParadiseDevTeam/chasing-tails/tree/master](https://hangar.papermc.io/ParadiseDevTeam/chasing-tails)](https://hangar.papermc.io/ParadiseDevTeam/chasing-tails))
+Ref : [꼬리잡기 플러그인](https://hangar.papermc.io/ParadiseDevTeam/chasing-tails)
 
 ## ⚒️ [ 필요 플러그인 ]
 
